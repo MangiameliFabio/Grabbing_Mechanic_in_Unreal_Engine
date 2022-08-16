@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\source\\hostagemechanic\\camerashakegrabbed.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\hostagemechaniceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\development\\hostagemechanic\\definitions.hostagemechanic.h",
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\source\\hostagemechanic\\camerashakegrabbed.h",
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\inc\\hostagemechanic\\camerashakegrabbed.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HostageMechanic",
+			"Path": "C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HostageMechanicEditor",
+			"Path": "C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanicEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

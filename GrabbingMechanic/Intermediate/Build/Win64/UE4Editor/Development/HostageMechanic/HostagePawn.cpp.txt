@@ -1,0 +1,3 @@
+C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\Definitions.HostageMechanic.h
+C:\Dokumente\Unreal Projects\HostageMechanic\Source\HostageMechanic\HostagePawn.h
+C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Inc\HostageMechanic\HostagePawn.generated.h

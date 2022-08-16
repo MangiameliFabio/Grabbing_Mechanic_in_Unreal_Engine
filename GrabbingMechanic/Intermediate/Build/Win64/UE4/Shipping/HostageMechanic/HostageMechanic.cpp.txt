@@ -1,0 +1,2 @@
+C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4\Shipping\HostageMechanic\Definitions.HostageMechanic.h
+C:\Dokumente\Unreal Projects\HostageMechanic\Source\HostageMechanic\HostageMechanic.h

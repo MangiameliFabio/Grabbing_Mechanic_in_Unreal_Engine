@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HostageMechanic",
+			"Path": "C:\\Dokumente\\Unreal Projects\\HostageMechanic\\Source\\HostageMechanic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HostageMechanicEditor",
+			"Path": "C:\\Dokumente\\Unreal Projects\\HostageMechanic\\Source\\HostageMechanicEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

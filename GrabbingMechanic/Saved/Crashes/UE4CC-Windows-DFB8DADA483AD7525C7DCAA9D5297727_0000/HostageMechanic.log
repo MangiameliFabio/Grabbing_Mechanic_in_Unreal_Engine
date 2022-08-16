@@ -1,0 +1,1804 @@
+﻿Log file open, 07/07/21 20:27:22
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: HostageMechanic
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.718595
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/fabio/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.07-18.27.23:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.07-18.27.23:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.07-18.27.23:754][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.07-18.27.23:754][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.07-18.27.23:754][  0]LogHAL: Display: Platform has ~ 16 GB [17097940992 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.07-18.27.23:754][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.07-18.27.23:754][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Scalability.ini]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.07-18.27.23:755][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Engine.ini]
+[2021.07.07-18.27.23:755][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Config/Windows/Editor.ini]
+[2021.07.07-18.27.23:755][  0]LogInit: Computer: DESKTOP-TMSSP0J
+[2021.07.07-18.27.23:755][  0]LogInit: User: fabio
+[2021.07.07-18.27.23:755][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.07-18.27.23:755][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.07-18.27.23:756][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.07-18.27.23:756][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.07-18.27.23:756][  0]LogMemory: Process Physical Memory: 135.65 MB used, 135.65 MB peak
+[2021.07.07-18.27.23:756][  0]LogMemory: Process Virtual Memory: 111.67 MB used, 111.67 MB peak
+[2021.07.07-18.27.23:756][  0]LogMemory: Physical Memory: 10073.85 MB used,  6232.02 MB free, 16305.87 MB total
+[2021.07.07-18.27.23:756][  0]LogMemory: Virtual Memory: 134203976.00 MB used,  13754.12 MB free, 134217728.00 MB total
+[2021.07.07-18.27.23:760][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.07-18.27.23:977][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.07-18.27.23:987][  0]LogInit: Using OS detected language (de-DE).
+[2021.07.07-18.27.23:987][  0]LogInit: Using OS detected locale (de-DE).
+[2021.07.07-18.27.24:050][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2021.07.07-18.27.24:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2021.07.07-18.27.24:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2021.07.07-18.27.24:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2021.07.07-18.27.24:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2021.07.07-18.27.24:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2021.07.07-18.27.24:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2021.07.07-18.27.24:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2021.07.07-18.27.24:097][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.07-18.27.24:120][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.07-18.27.24:270][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.07-18.27.24:270][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.07-18.27.24:782][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.07-18.27.24:782][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.07-18.27.24:782][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.07-18.27.24:782][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.07-18.27.24:878][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2021.07.07-18.27.24:878][  0]LogD3D11RHI:       8043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.07.07-18.27.24:881][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.07-18.27.24:881][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.07-18.27.24:881][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.07-18.27.24:886][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.07-18.27.24:886][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.07-18.27.24:886][  0]LogWindows: EnumDisplayDevices:
+[2021.07.07-18.27.24:886][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2021.07.07-18.27.24:886][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.07.07-18.27.24:886][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.07.07-18.27.24:887][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.07.07-18.27.24:887][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.07-18.27.24:887][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2021.07.07-18.27.24:887][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.07.07-18.27.24:887][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.07.07-18.27.24:887][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2021.07.07-18.27.24:953][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.07-18.27.24:954][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.07-18.27.24:954][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.07-18.27.24:955][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2021.07.07-18.27.24:984][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.07-18.27.24:985][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.07-18.27.25:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.07-18.27.25:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.07-18.27.25:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.07-18.27.25:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.07-18.27.25:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.07-18.27.25:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.07-18.27.25:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.07-18.27.25:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.07-18.27.25:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.07-18.27.25:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.07-18.27.25:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.07-18.27.25:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.07-18.27.25:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.07-18.27.25:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.07-18.27.25:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.07-18.27.25:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.07-18.27.25:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.07-18.27.25:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.07-18.27.25:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.07-18.27.25:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.07-18.27.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.07-18.27.25:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.07-18.27.25:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.07-18.27.25:693][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.07-18.27.25:730][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.07-18.27.26:274][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.07-18.27.26:274][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Dokumente/Unreal Projects/HostageMechanic/Intermediate/Shaders/WorkingDirectory/17284/).
+[2021.07.07-18.27.26:274][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fabio/AppData/Local/Temp/UnrealShaderWorkingDir/131DCF1F41406148525702AA73BD5309/'.
+[2021.07.07-18.27.26:274][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.07-18.27.26:274][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.07-18.27.27:569][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.07-18.27.27:633][  0]LogDerivedDataCache: Loaded boot cache 0.06s 83MB C:/Users/fabio/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.07-18.27.27:633][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fabio/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.07-18.27.27:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Dokumente/Unreal Projects/HostageMechanic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.07-18.27.27:633][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.07-18.27.27:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Dokumente/Unreal Projects/HostageMechanic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.07-18.27.27:633][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.07-18.27.27:653][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.07-18.27.27:653][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.07-18.27.27:653][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.07-18.27.27:665][  0]LogDerivedDataCache: Speed tests for C:/Users/fabio/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.07-18.27.27:665][  0]LogDerivedDataCache: Display: Performance to C:/Users/fabio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=166.13MBs, RandomWriteSpeed=190.51MBs. Assigned SpeedClass 'Local'
+[2021.07.07-18.27.27:666][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fabio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.07-18.27.27:666][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.07-18.27.27:666][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.07-18.27.27:713][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.07-18.27.27:713][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.07-18.27.27:856][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.07.07-18.27.28:069][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.07-18.27.28:070][  0]LogInit: Active device profile: [000001A73DE37000][000001A73D14AD00 49] Windows
+[2021.07.07-18.27.28:070][  0]LogInit: Profiles: [000001A73DE37000][000001A73D14AD00 49] Windows, [000001A73DDFD200][000001A73D152E80 49] WindowsNoEditor, [000001A73DE35200][000001A73D157000 49] WindowsServer, [000001A73DDFE900][000001A73D15B180 49] WindowsClient, [000001A73DE36800][000001A73D15F300 49] IOS, [000001A73DDFDA00][000001A73D163480 49] iPadAir, [000001A73DE35900][000001A73D14F5C0 49] iPadAir2, [000001A73EDB4400][000001A73D16B800 49] IPadPro, [000001A73EDB4500][000001A73D167840 49] iPadAir3, [000001A73DE37400][000001A73D16F980 49] iPadAir4, [000001A73EDB6C00][000001A73D177B00 49] iPadMini2, [000001A73DE34E00][000001A73D17BC80 49] iPadMini3, [000001A73EDB4900][000001A73D17E140 49] iPadMini4, [000001A73DE36A00][000001A73D1822C0 49] iPadMini5, [000001A73EDB3C00][000001A73D18A580 49] iPhone6, [000001A73EDB3D00][000001A73D1865C0 49] iPodTouch6, [000001A73EDB6F00][000001A73D192880 49] iPhone7, [000001A73EDB7000][000001A73D18E8C0 49] iPodTouch7, [000001A73EDB1600][000001A73D196A40 49] iPhone5S, [000001A73EDB4D00][000001A73D19ABC0 49] iPhone6Plus, [000001A73EDB3B00][000001A73D19ED40 49] iPhone6S, [000001A73EDB4600][000001A73D1A2EC0 49] iPhone6SPlus, [000001A73EDB1200][000001A73D1A7040 49] iPhone7Plus, [000001A73EDB6400][000001A73D1AB1C0 49] iPhoneSE, [000001A73EDB2600][000001A73D9E1340 49] iPhone8, [000001A73EDB4200][000001A73D9E54C0 49] iPhone8Plus, [000001A73EDB2F00][000001A73D9E9640 49] iPhoneX, [000001A73EDB7200][000001A73D173780 49] iPhoneXS, [000001A73EDB3A00][000001A73D9ED8C0 49] iPhoneXSMax, [000001A73EDB6A00][000001A73D9F1A00 49] iPhoneXR, [000001A73EDB0400][000001A73D9F9B80 49] iPhone11, [000001A73EDB6500][000001A73D9FDD00 49] iPhone11Pro, [000001A73EDB1700][000001A73DA001C0 49] iPhone11ProMax, [000001A73EDB5000][000001A73DA04340 49] iPhoneSE2, [000001A73EDB1400][000001A73DA084C0 49] iPhone12Mini, [000001A73EDB6000][000001A73DA0C640 49] iPhone12, [000001A73EDB3800][000001A73DA107C0 49] iPhone12Pro, [000001A73EDB5200][000001A73DA14940 49] iPhone12ProMax, [000001A73EDB2400][000001A73DA18AC0 49] iPadPro105, [000001A73EDB7600][000001A73DA1CC40 49] iPadPro129, [000001A73EDB0E00][000001A73DA20DC0 49] iPadPro97, [000001A73EDB6700][000001A73DA24F40 49] iPadPro2_129, [000001A73EDB2E00][000001A73DA290C0 49] iPad5, [000001A73EDB7800][000001A73DA2D240 49] iPad6, [000001A73EDB0800][000001A73DA313C0 49] iPad7, [000001A73EDB5B00][000001A73DA35540 49] iPad8, [000001A73EDB2200][000001A73DA396C0 49] iPadPro11, [000001A73EDB7700][000001A73D9F5800 49] iPadPro2_11, [000001A73EDB0300][000001A73DA3D940 49] iPadPro3_129, [000001A73EDB7100][000001A73DA41A80 49] iPadPro4_129, [000001A73EDB0A00][000001A73DA49C00 49] AppleTV, [000001A73EDB5E00][000001A73DA4C0C0 49] AppleTV4K, [000001A73EDB1900][000001A73DA50240 49] TVOS, [000001A73EDB6200][000001A73DA543C0 49] Mac, [000001A73EDB3500][000001A73DA58540 49] MacClient, [000001A73EDB5600][000001A73DA5C6C0 49] MacNoEditor, [000001A73EDB3400][000001A73DA60840 49] MacServer, [000001A73DDFFA00][000001A73DA649C0 49] Linux, [000001A73DE98E00][000001A73DA68B40 49] LinuxAArch64, [000001A73DDFE200][000001A73DA6CCC0 49] LinuxNoEditor, [000001A73DE98C00][000001A73DA70E40 49] LinuxAArch64NoEditor, [000001A73DDFCC00][000001A73DA74FC0 49] LinuxClient, [000001A73DE99400][000001A73DA79140 49] LinuxAArch64Client, [000001A73DDFF300][000001A73DA7D2C0 49] LinuxServer, [000001A73DE98600][000001A73DA81440 49] LinuxAArch64Server, [000001A73DDFD500][000001A73DA855C0 49] Android, [000001A73DE99100][000001A73DA89740 49] Android_Low, [000001A73DDFFF00][000001A73DA45880 49] Android_Mid, [000001A73DE98100][000001A73DA8D9C0 49] Android_High, [000001A73DDFEF00][000001A73DA91B00 49] Android_Default, [000001A73EDB3E00][000001A73DA95C40 49] Android_Adreno4xx, [000001A73DDFCE00][000001A73DA9C100 49] Android_Adreno5xx_Low, [000001A73EDB1800][000001A73DAA0280 49] Android_Adreno5xx, [000001A73DDFDC00][000001A73DAA4400 49] Android_Adreno6xx, [000001A73EDB3000][000001A73DAA8580 49] Android_Adreno6xx_Vulkan, [000001A73DDFC500][000001A73DAAC700 49] Android_Mali_T6xx, [000001A73EDB2C00][000001A73DAB0880 49] Android_Mali_T7xx, [000001A73DDFE300][000001A73DAB4A00 49] Android_Mali_T8xx, [000001A73EDB0C00][000001A73DAB8B80 49] Android_Mali_G71, [000001A73DDFDB00][000001A73DABCD00 49] Android_Mali_G72, [000001A73EDB3200][000001A73DAC0E80 49] Android_Mali_G72_Vulkan, [000001A73DDFF000][000001A73DAC5000 49] Android_Mali_G76, [000001A73EDB1100][000001A73DAC9180 49] Android_Mali_G76_Vulkan, [000001A73DDFE500][000001A73DACD300 49] Android_Mali_G77, [000001A73EDB1000][000001A73DAD1480 49] Android_Mali_G77_Vulkan, [000001A73DDFF700][000001A73DAD5600 49] Android_Vulkan_SM5, [000001A73EDB0700][000001A73DAD9780 49] Android_PowerVR_G6xxx, [000001A73DDFFE00][000001A73DA998C0 49] Android_PowerVR_GT7xxx, [000001A73EDB2500][000001A73DADDA00 49] Android_PowerVR_GE8xxx, [000001A73DDFFC00][000001A73DAE1B40 49] Android_PowerVR_GM9xxx, [000001A73EDB3900][000001A73DAE5C80 49] Android_PowerVR_GM9xxx_Vulkan, [000001A73DDFD400][000001A73DAEC140 49] Android_TegraK1, [000001A73EDB2D00][000001A73DAF02C0 49] Android_Unknown_Vulkan, [000001A73DDFE700][000001A73DAF4440 49] Lumin, [000001A73EDB0200][000001A73DAF85C0 49] Lumin_Desktop, [000001A73DDFDF00][000001A73DAFC740 49] HoloLens, 
+[2021.07.07-18.27.29:027][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.07-18.27.29:027][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.07-18.27.29:027][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.07-18.27.29:027][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.07-18.27.29:028][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.07-18.27.29:133][  0]LogNetVersion: HostageMechanic 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1087049094)
+[2021.07.07-18.27.33:997][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.07-18.27.34:035][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.038655 seconds
+[2021.07.07-18.27.34:041][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.07-18.27.34:041][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.07-18.27.34:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.07-18.27.36:555][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.07-18.27.36:598][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.07-18.27.37:460][  0]SourceControl: Source control is disabled
+[2021.07.07-18.27.37:460][  0]SourceControl: Source control is disabled
+[2021.07.07-18.27.37:627][  0]SourceControl: Source control is disabled
+[2021.07.07-18.27.37:669][  0]SourceControl: Source control is disabled
+[2021.07.07-18.27.37:709][  0]SourceControl: Source control is disabled
+[2021.07.07-18.27.38:730][  0]LogUProjectInfo: Found projects:
+[2021.07.07-18.27.39:998][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.07-18.27.40:079][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.07-18.27.40:079][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.07-18.27.40:354][  0]LogCollectionManager: Loaded 0 collections in 0.001571 seconds
+[2021.07.07-18.27.40:457][  0]LogFileCache: Scanning file cache for directory 'C:/Dokumente/Unreal Projects/HostageMechanic/Saved/Collections/' took 0.00s
+[2021.07.07-18.27.40:457][  0]LogFileCache: Scanning file cache for directory 'C:/Dokumente/Unreal Projects/HostageMechanic/Content/Developers/fabio/Collections/' took 0.00s
+[2021.07.07-18.27.40:457][  0]LogFileCache: Scanning file cache for directory 'C:/Dokumente/Unreal Projects/HostageMechanic/Content/Collections/' took 0.00s
+[2021.07.07-18.27.40:457][  0]LogOcInput: OculusInput pre-init called
+[2021.07.07-18.27.40:519][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.07-18.27.40:519][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.07-18.27.40:699][  0]LogEngine: Initializing Engine...
+[2021.07.07-18.27.40:700][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.07-18.27.40:700][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.07-18.27.40:715][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.07-18.27.40:802][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.07-18.27.40:860][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.07-18.27.40:861][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.07-18.27.40:875][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.07-18.27.40:875][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-18.27.40:875][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-18.27.40:875][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-18.27.40:876][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-18.27.40:876][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-18.27.40:906][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-18.27.40:907][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-18.27.40:934][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.07.07-18.27.40:940][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-18.27.40:942][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-18.27.40:942][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-18.27.40:943][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-18.27.40:943][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-18.27.40:943][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-18.27.40:944][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-18.27.40:944][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-18.27.40:944][  0]LogInit: FAudioDevice initialized.
+[2021.07.07-18.27.40:944][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.07-18.27.40:944][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.07-18.27.40:995][  0]LogDerivedDataCache: Saved boot cache 0.05s 83MB C:/Users/fabio/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.07-18.27.40:997][  0]LogInit: Texture streaming: Enabled
+[2021.07.07-18.27.41:038][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.07-18.27.41:050][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.07-18.27.41:051][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FCFCA80C-4AC1-567F-A506-AD8A70A7A66D}
+[2021.07.07-18.27.41:051][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.07-18.27.41:054][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.07-18.27.41:142][  0]LogInit: Transaction tracking system initialized
+[2021.07.07-18.27.41:584][  0]BlueprintLog: New page: Editor Load
+[2021.07.07-18.27.42:443][  0]LocalizationService: Localization service is disabled
+[2021.07.07-18.27.42:732][  0]TimingProfiler: Initialize
+[2021.07.07-18.27.42:735][  0]TimingProfiler: OnSessionChanged
+[2021.07.07-18.27.42:736][  0]LoadingProfiler: Initialize
+[2021.07.07-18.27.42:736][  0]LoadingProfiler: OnSessionChanged
+[2021.07.07-18.27.42:737][  0]NetworkingProfiler: Initialize
+[2021.07.07-18.27.42:741][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.07-18.27.42:741][  0]MemoryProfiler: Initialize
+[2021.07.07-18.27.42:742][  0]MemoryProfiler: OnSessionChanged
+[2021.07.07-18.27.43:317][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.07-18.27.43:317][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.07-18.27.44:272][  0]LogFileCache: Scanning file cache for directory 'C:/Dokumente/Unreal Projects/HostageMechanic/Content/' took 0.01s
+[2021.07.07-18.27.44:758][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.07-18.27.44:773][  0]SourceControl: Source control is disabled
+[2021.07.07-18.27.44:773][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.169
+[2021.07.07-18.27.44:774][  0]Cmd: MAP LOAD FILE="C:/Dokumente/Unreal Projects/HostageMechanic/Content/MyContent/Maps/PrototypeMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.07-18.27.44:774][  0]LightingResults: New page: Lighting Build
+[2021.07.07-18.27.44:785][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-18.27.44:785][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-18.27.44:785][  0]MapCheck: New page: Map Check
+[2021.07.07-18.27.44:785][  0]LightingResults: New page: Lighting Build
+[2021.07.07-18.27.44:791][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.07-18.27.44:844][  0]LogBlueprint: Error: [AssetLog] C:\Dokumente\Unreal Projects\HostageMechanic\Content\MyContent\EnemyAI\AI\BP_EnemyAI.uasset: [Compiler] Internal Compiler Error: Tried to create a property Widget in scope SKEL_BP_EnemyAI_C, but another object (ObjectProperty /Script/HostageMechanic.EnemyCharacter:Widget) already exists there.
+[2021.07.07-18.27.44:908][  0]LogBlueprint: Error: [AssetLog] C:\Dokumente\Unreal Projects\HostageMechanic\Content\MyContent\EnemyAI\AI\BP_EnemyAI.uasset: [Compiler] Internal Compiler Error: Tried to create a property Widget in scope BP_EnemyAI_C, but another object (ObjectProperty /Script/HostageMechanic.EnemyCharacter:Widget) already exists there.
+[2021.07.07-18.27.44:931][  0]LogLinker: Error: HOTRELOADED_HostageMechanicCharacter_1 has an inappropriate outermost, it was probably saved with a deprecated outer (file: C:/Dokumente/Unreal Projects/HostageMechanic/Content/MyContent/Healthbar.uasset)
+[2021.07.07-18.27.44:932][  0]LogLinker: Error: HOTRELOADED_HostageMechanicCharacter_1 has an inappropriate outermost, it was probably saved with a deprecated outer (file: C:/Dokumente/Unreal Projects/HostageMechanic/Content/MyContent/Healthbar.uasset)
+[2021.07.07-18.27.45:099][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'PrototypeMap'.
+[2021.07.07-18.27.45:100][  0]LogAIModule: Creating AISystem for world PrototypeMap
+[2021.07.07-18.27.45:120][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.07-18.27.45:126][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.07-18.27.45:126][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.07-18.27.45:126][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,204ms to complete.
+[2021.07.07-18.27.45:127][  0]LogFileHelpers: Loading map 'PrototypeMap' took 0.353
+[2021.07.07-18.27.45:140][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.536
+[2021.07.07-18.27.45:321][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3610 classes and 861 folders.
+[2021.07.07-18.27.45:338][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.07-18.27.45:361][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.07-18.27.45:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.07-18.27.45:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.07-18.27.45:374][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.07-18.27.45:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.07-18.27.45:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.07.07-18.27.45:387][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.07-18.27.45:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.07-18.27.45:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.07-18.27.45:399][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.07-18.27.45:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.07-18.27.45:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.07-18.27.45:413][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.07-18.27.45:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.07-18.27.45:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.07-18.27.45:421][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.07-18.27.45:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.07-18.27.45:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.07-18.27.45:430][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.07-18.27.45:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.07-18.27.45:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.07.07-18.27.45:442][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.07-18.27.45:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.07-18.27.45:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.07.07-18.27.45:449][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.07-18.27.45:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.07-18.27.45:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.07.07-18.27.45:462][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.07-18.27.45:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.07-18.27.45:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.07.07-18.27.45:475][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.07-18.27.45:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.07-18.27.45:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.07.07-18.27.45:486][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.07-18.27.45:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.07-18.27.45:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.07.07-18.27.45:493][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.07-18.27.45:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.07-18.27.45:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.07.07-18.27.45:501][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.07-18.27.45:501][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:501][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.07-18.27.45:501][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.07.07-18.27.45:516][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.07-18.27.45:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.07-18.27.45:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.07.07-18.27.45:522][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.07-18.27.45:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.07-18.27.45:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.07.07-18.27.45:537][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.07-18.27.45:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.07-18.27.45:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.07.07-18.27.45:549][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.07-18.27.45:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.07-18.27.45:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.07.07-18.27.45:567][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.07-18.27.45:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.07-18.27.45:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.07.07-18.27.45:574][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.07-18.27.45:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.07-18.27.45:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.07.07-18.27.45:588][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.07-18.27.45:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.07-18.27.45:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.07.07-18.27.45:600][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.07-18.27.45:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.07-18.27.45:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.07.07-18.27.45:615][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.07-18.27.45:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.07-18.27.45:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.07.07-18.27.45:633][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.07-18.27.45:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.07-18.27.45:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.07.07-18.27.45:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.07-18.27.45:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.07-18.27.45:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.07.07-18.27.45:658][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.07-18.27.45:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.07-18.27.45:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.07-18.27.45:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.07.07-18.27.46:224][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.07.07-18.27.46:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.27.46:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.27.46:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.27.46:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.27.46:333][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.07.07-18.27.46:577][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.07-18.27.46:593][  0]LogSlate: Took 0.013570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.07-18.27.46:593][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.07-18.27.46:605][  0]LogSlate: Took 0.007540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.07-18.27.47:067][  0]LogRenderer: Reallocating scene render targets to support 952x672 Format 10 NumSamples 1 (Frame:1).
+[2021.07.07-18.27.47:212][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.07-18.27.47:213][  0]LogLoad: (Engine Initialization) Total time: 26.61 seconds
+[2021.07.07-18.27.47:213][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.07-18.27.47:213][  0]LogInit: First time updating LLM stats...
+[2021.07.07-18.27.47:254][  0]LogAssetRegistry: Asset discovery search completed in 19.3986 seconds
+[2021.07.07-18.27.47:255][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.07.07-18.27.47:275][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.07-18.27.48:239][ 99]LogSlate: Took 0.011083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.07-18.28.05:812][144]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.07-18.28.06:518][144]LogRenderer: Reallocating scene render targets to support 1016x728 Format 10 NumSamples 1 (Frame:2147).
+[2021.07.07-18.28.07:418][214]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-18.28.07:424][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-18.28.07:425][214]BlueprintLog: Warning: Blueprint failed to compile:  BP_EnemyAI
+[2021.07.07-18.28.07:425][214]LogCustomDialog: Dialog displayed:
+[2021.07.07-18.28.09:034][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/EnemyAI/AI/BP_EnemyAI.BP_EnemyAI
+[2021.07.07-18.28.09:234][214]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.07-18.28.11:312][214]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.07.07-18.28.11:401][214]LogSlate: Took 0.012353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.07-18.28.11:518][215]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.07-18.28.13:558][382]LogSlate: Window 'Message Log' being destroyed
+[2021.07.07-18.28.13:562][382]LogSlate: Window 'Message Log' being destroyed
+[2021.07.07-18.28.22:236][208]BlueprintLog: New page: Compile BP_EnemyAI
+[2021.07.07-18.28.22:277][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.07.07-18.28.24:448][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-18.28.24:454][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-18.28.24:455][434]PIE: New page: PIE session: PrototypeMap (07.07.2021, 22:28:24)
+[2021.07.07-18.28.24:456][434]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.07-18.28.24:457][434]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.07-18.28.24:457][434]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_PrototypeMap
+[2021.07.07-18.28.24:470][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013392s)
+[2021.07.07-18.28.24:489][434]LogAIModule: Creating AISystem for world PrototypeMap
+[2021.07.07-18.28.24:489][434]LogPlayLevel: PIE: World Init took: (0.018696s)
+[2021.07.07-18.28.24:489][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/PrototypeMap.PrototypeMap to /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap (0.032504s)
+[2021.07.07-18.28.24:506][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.07.07-18.28.24:507][434]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-18.28.24:507][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-18.28.24:507][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-18.28.24:508][434]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-18.28.24:508][434]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-18.28.24:511][434]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-18.28.24:512][434]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-18.28.24:520][434]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.07.07-18.28.24:521][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-18.28.24:521][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-18.28.24:521][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-18.28.24:521][434]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-18.28.24:521][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-18.28.24:521][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-18.28.24:532][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-18.28.24:532][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-18.28.24:533][434]LogInit: FAudioDevice initialized.
+[2021.07.07-18.28.24:533][434]LogAudio: Display: Audio Device (ID: 2) registered with world 'PrototypeMap'.
+[2021.07.07-18.28.24:538][434]LogLoad: Game class is 'HostageGamemode_C'
+[2021.07.07-18.28.24:541][434]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap up for play (max tick rate 0) at 2021.07.07-20.28.24
+[2021.07.07-18.28.24:541][434]LogWorld: Bringing up level for play took: 0.002104
+[2021.07.07-18.28.24:542][434]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.07.07-18.28.24:563][434]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.07-18.28.24:566][434]LogScript: Warning: Accessed None trying to read property Widget
+	BP_EnemyAI_C /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap:PersistentLevel.BP_EnemyAI_3
+	Function /Game/MyContent/EnemyAI/AI/BP_EnemyAI.BP_EnemyAI_C:ExecuteUbergraph_BP_EnemyAI:0020
+[2021.07.07-18.28.24:567][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  BP_EnemyAI Function:  Execute Ubergraph BP Enemy AI Graph:  EventGraph Node:  Cast To AIStats
+[2021.07.07-18.28.24:567][434]PIE: Server logged in
+[2021.07.07-18.28.24:569][434]PIE: Play in editor total start time 0,115 seconds.
+[2021.07.07-18.28.24:571][434]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:882][435]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:901][436]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:926][437]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:938][438]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:961][439]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:974][440]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:983][441]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.24:992][442]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:021][443]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:072][444]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:124][445]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:137][446]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:146][447]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:157][448]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:169][449]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:184][450]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:200][451]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:216][452]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:229][453]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:241][454]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:253][455]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:262][456]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:272][457]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:282][458]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:292][459]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:302][460]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:311][461]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:320][462]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:330][463]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:340][464]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:349][465]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:359][466]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:369][467]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:379][468]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:389][469]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:400][470]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:410][471]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:421][472]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:432][473]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:443][474]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:454][475]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:464][476]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:474][477]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:484][478]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:494][479]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:504][480]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:513][481]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:523][482]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:533][483]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:543][484]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:552][485]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:561][486]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:571][487]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:580][488]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:591][489]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:600][490]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:610][491]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:621][492]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:631][493]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:641][494]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:650][495]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:660][496]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:673][497]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:684][498]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:694][499]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:704][500]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:714][501]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:725][502]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:737][503]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:749][504]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:761][505]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:773][506]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:785][507]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:795][508]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:806][509]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:815][510]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:825][511]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:834][512]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:846][513]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:856][514]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:864][515]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:876][516]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:885][517]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:895][518]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:907][519]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:917][520]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:928][521]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:938][522]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:947][523]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:959][524]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:969][525]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:979][526]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:989][527]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.25:999][528]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:011][529]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:022][530]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:033][531]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:044][532]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:056][533]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:064][534]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:074][535]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:085][536]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:094][537]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:104][538]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:114][539]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:125][540]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:133][541]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:143][542]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:155][543]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:164][544]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:176][545]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:189][546]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:199][547]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:213][548]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:224][549]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:236][550]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:247][551]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:259][552]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:271][553]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:281][554]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:291][555]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:301][556]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:312][557]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:322][558]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:333][559]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:345][560]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:359][561]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:372][562]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:384][563]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.26:426][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.28.26:426][563]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_PrototypeMap
+[2021.07.07-18.28.26:426][563]LogWorld: UWorld::CleanupWorld for PrototypeMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-18.28.26:427][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-18.28.26:439][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-18.28.26:446][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-18.28.26:466][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-18.28.26:471][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-18.28.26:472][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-18.28.26:486][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.28.26:511][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.07-18.28.26:650][564]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.07.07-18.28.43:566][102]BlueprintLog: New page: Compile BP_EnemyAI
+[2021.07.07-18.28.43:625][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.07-18.28.44:268][155]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-18.28.44:273][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-18.28.44:274][155]PIE: New page: PIE session: PrototypeMap (07.07.2021, 22:28:44)
+[2021.07.07-18.28.44:294][155]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_PrototypeMap
+[2021.07.07-18.28.44:305][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010067s)
+[2021.07.07-18.28.44:306][155]LogAIModule: Creating AISystem for world PrototypeMap
+[2021.07.07-18.28.44:306][155]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2021.07.07-18.28.44:306][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/PrototypeMap.PrototypeMap to /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap (0.012073s)
+[2021.07.07-18.28.44:331][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.07-18.28.44:332][155]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.07-18.28.44:332][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-18.28.44:332][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-18.28.44:332][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-18.28.44:332][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-18.28.44:332][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-18.28.44:333][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-18.28.44:333][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-18.28.44:333][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-18.28.44:333][155]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-18.28.44:333][155]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-18.28.44:337][155]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-18.28.44:337][155]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-18.28.44:346][155]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.07.07-18.28.44:346][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-18.28.44:347][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-18.28.44:347][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-18.28.44:347][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-18.28.44:347][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-18.28.44:347][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-18.28.44:358][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-18.28.44:358][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-18.28.44:358][155]LogInit: FAudioDevice initialized.
+[2021.07.07-18.28.44:358][155]LogAudio: Display: Audio Device (ID: 3) registered with world 'PrototypeMap'.
+[2021.07.07-18.28.44:371][155]LogLoad: Game class is 'HostageGamemode_C'
+[2021.07.07-18.28.44:373][155]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap up for play (max tick rate 0) at 2021.07.07-20.28.44
+[2021.07.07-18.28.44:374][155]LogWorld: Bringing up level for play took: 0.002099
+[2021.07.07-18.28.44:374][155]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.07-18.28.44:379][155]LogScript: Warning: Accessed None trying to read property Widget
+	BP_EnemyAI_C /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap:PersistentLevel.BP_EnemyAI_3
+	Function /Game/MyContent/EnemyAI/AI/BP_EnemyAI.BP_EnemyAI_C:ExecuteUbergraph_BP_EnemyAI:0020
+[2021.07.07-18.28.44:379][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  BP_EnemyAI Function:  Execute Ubergraph BP Enemy AI Graph:  EventGraph Node:  Cast To AIStats
+[2021.07.07-18.28.44:379][155]PIE: Server logged in
+[2021.07.07-18.28.44:380][155]PIE: Play in editor total start time 0,108 seconds.
+[2021.07.07-18.28.44:381][155]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:417][156]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:428][157]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:429][157]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:429][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:429][157]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:429][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:442][158]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:442][158]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:442][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:443][158]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:443][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:455][159]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:455][159]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:456][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:456][159]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:456][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:468][160]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:468][160]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:469][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:469][160]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:469][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:481][161]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:482][161]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:482][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:482][161]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:482][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:496][162]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:496][162]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:497][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:497][162]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:497][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:510][163]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:510][163]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:511][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:511][163]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:511][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:523][164]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:523][164]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:0038
+[2021.07.07-18.28.44:524][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:524][164]LogScript: Warning: Accessed None trying to read property Enemy
+	AIStats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.AIStats_C_0
+	Function /Game/MyContent/EnemyAI/AIStats.AIStats_C:ExecuteUbergraph_AIStats:008D
+[2021.07.07-18.28.44:524][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:537][165]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:538][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:538][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:551][166]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:551][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:551][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:565][167]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:565][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:565][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:578][168]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:578][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:579][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:592][169]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:592][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:592][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:606][170]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:606][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:606][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:619][171]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:620][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:620][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:633][172]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:633][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:633][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:646][173]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:646][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:646][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:658][174]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:658][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:659][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:671][175]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:671][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:671][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:683][176]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:683][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:683][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:695][177]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:696][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:696][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:708][178]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:708][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:709][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:720][179]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:720][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:720][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:732][180]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:733][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:733][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:744][181]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:745][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:745][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:757][182]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:758][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:758][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:771][183]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:771][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:771][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:784][184]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:785][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:785][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:797][185]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:798][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:798][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:809][186]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:809][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:809][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:821][187]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:822][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:822][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:834][188]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:835][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:835][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:847][189]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:849][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:849][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:859][190]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:860][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:860][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:872][191]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:873][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:873][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:885][192]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:886][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:886][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:899][193]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:900][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:900][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:911][194]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:912][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:912][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:925][195]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:925][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:925][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:938][196]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:938][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:939][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:951][197]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:952][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:952][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:964][198]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:964][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:965][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:978][199]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:978][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:978][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.44:990][200]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.44:990][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.44:990][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:005][201]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:006][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:006][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:020][202]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:020][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:021][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:038][203]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:039][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:039][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:077][204]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:078][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:078][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:094][205]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:095][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:095][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:143][206]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:143][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:143][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:156][207]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:156][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:156][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:169][208]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:169][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:170][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:182][209]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:182][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:182][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:194][210]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:195][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:195][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:208][211]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:208][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:208][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:221][212]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:221][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:221][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:233][213]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:234][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:234][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:248][214]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:248][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:249][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:260][215]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:261][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:261][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:273][216]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:274][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:274][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:287][217]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:287][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:287][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:299][218]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:300][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:300][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:312][219]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:313][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:313][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:324][220]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:325][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:325][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:337][221]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:337][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:337][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:349][222]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:350][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:350][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:362][223]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:362][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:363][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:375][224]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:375][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:376][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:388][225]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:389][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:389][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:402][226]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:402][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:402][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:414][227]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:415][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:415][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:428][228]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:428][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:429][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:440][229]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:440][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:441][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:452][230]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:452][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:453][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:464][231]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:465][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:466][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:477][232]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:477][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:477][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:489][233]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:489][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:489][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:502][234]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:502][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:502][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:514][235]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:514][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:514][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:526][236]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:526][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:526][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:538][237]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:539][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:539][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:550][238]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:551][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:551][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:562][239]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:563][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:563][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:576][240]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:577][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:577][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:589][241]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:590][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:590][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:602][242]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:603][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:603][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:615][243]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:616][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:616][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:628][244]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:628][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:628][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:640][245]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.28.45:641][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Set Health
+[2021.07.07-18.28.45:641][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Blueprint:  AIStats Function:  Execute Ubergraph AIStats Graph:  EventGraph Node:  Branch
+[2021.07.07-18.28.45:686][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.28.45:686][245]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_PrototypeMap
+[2021.07.07-18.28.45:686][245]LogWorld: UWorld::CleanupWorld for PrototypeMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-18.28.45:687][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-18.28.45:696][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-18.28.45:702][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-18.28.45:723][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-18.28.45:724][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-18.28.45:725][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-18.28.45:738][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.28.45:742][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.07.07-18.28.45:793][246]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.07-18.29.16:540][714]LogRenderer: Reallocating scene render targets to support 1128x728 Format 10 NumSamples 1 (Frame:1).
+[2021.07.07-18.29.36:443][ 87]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.07-18.30.26:464][ 86]Candidate modules for hot reload:
+[2021.07.07-18.30.26:464][ 86]  HostageMechanic
+[2021.07.07-18.30.26:464][ 86]Launching UnrealBuildTool... [E:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HostageMechanic,3828 HostageMechanicEditor Win64 Development -Project="C:/Dokumente/Unreal Projects/HostageMechanic/HostageMechanic.uproject" "C:/Dokumente/Unreal Projects/HostageMechanic/HostageMechanic.uproject"  -IgnoreJunk]
+[2021.07.07-18.30.26:467][ 86]Warning: Starting HotReload took  0.0s.
+[2021.07.07-18.30.30:848][322]CompilerResultsLog: New page: Compilation - 07.07.2021, 22:30:30
+[2021.07.07-18.30.30:848][322]CompilerResultsLog: Building HostageMechanicEditor...
+[2021.07.07-18.30.30:848][322]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.07-18.30.30:848][322]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.07.07-18.30.30:848][322]CompilerResultsLog:   [1/4] EnemyCharacter.cpp
+[2021.07.07-18.30.30:848][322]CompilerResultsLog:   [2/4] UE4Editor-HostageMechanic-3828.lib
+[2021.07.07-18.30.30:848][322]CompilerResultsLog:      Bibliothek "C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\UE4Editor-HostageMechanic-3828.lib" und Objekt "C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\UE4Editor-HostageMechanic-3828.exp" werden erstellt.
+[2021.07.07-18.30.30:849][322]CompilerResultsLog:   [3/4] UE4Editor-HostageMechanic-3828.dll
+[2021.07.07-18.30.30:849][322]CompilerResultsLog:      Bibliothek "C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\UE4Editor-HostageMechanic-3828.suppressed.lib" und Objekt "C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\UE4Editor-HostageMechanic-3828.suppressed.exp" werden erstellt.
+[2021.07.07-18.30.30:849][322]CompilerResultsLog:   [4/4] HostageMechanicEditor.target
+[2021.07.07-18.30.30:849][322]CompilerResultsLog: Total time in Parallel executor: 3,68 seconds
+[2021.07.07-18.30.30:849][322]CompilerResultsLog: Total execution time: 4,29 seconds
+[2021.07.07-18.30.30:849][322]LogMainFrame: MainFrame: Module compiling took 4.402 seconds
+[2021.07.07-18.30.30:895][322]LogHotReload: Re-instancing CameraShakeGrabbed after hot-reload.
+[2021.07.07-18.30.30:917][322]LogHotReload: Re-instancing EnemyCharacter after hot-reload.
+[2021.07.07-18.30.30:991][322]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HostageMechanic' in 0.0003 seconds. Added 9 classes and 2 folders.
+[2021.07.07-18.30.30:996][322]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.07.07-18.30.31:073][322]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3610 classes and 861 folders.
+[2021.07.07-18.30.31:073][322]Display: HotReload took  4.6s.
+[2021.07.07-18.31.00:910][436]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.07-18.31.25:073][101]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/EnemyAI/AIStats.AIStats
+[2021.07.07-18.31.41:011][300]BlueprintLog: New page: Compile BP_EnemyAI
+[2021.07.07-18.31.41:165][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.07.07-18.31.44:378][598]BlueprintLog: New page: Compile AIStats
+[2021.07.07-18.31.44:477][598]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.07.07-18.31.45:381][645]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-18.31.45:388][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-18.31.45:388][645]PIE: New page: PIE session: PrototypeMap (07.07.2021, 22:31:45)
+[2021.07.07-18.31.45:388][645]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_PrototypeMap
+[2021.07.07-18.31.45:399][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010730s)
+[2021.07.07-18.31.45:400][645]LogAIModule: Creating AISystem for world PrototypeMap
+[2021.07.07-18.31.45:400][645]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2021.07.07-18.31.45:400][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/PrototypeMap.PrototypeMap to /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap (0.012080s)
+[2021.07.07-18.31.45:451][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.07.07-18.31.45:453][645]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-18.31.45:453][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-18.31.45:453][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-18.31.45:454][645]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-18.31.45:454][645]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-18.31.45:458][645]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-18.31.45:458][645]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-18.31.45:466][645]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.07.07-18.31.45:466][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-18.31.45:466][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-18.31.45:467][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-18.31.45:467][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-18.31.45:467][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-18.31.45:467][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-18.31.45:478][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-18.31.45:478][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-18.31.45:478][645]LogInit: FAudioDevice initialized.
+[2021.07.07-18.31.45:479][645]LogAudio: Display: Audio Device (ID: 4) registered with world 'PrototypeMap'.
+[2021.07.07-18.31.45:532][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-18.31.45:533][645]LogLoad: Game class is 'HostageGamemode_C'
+[2021.07.07-18.31.45:535][645]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap up for play (max tick rate 0) at 2021.07.07-20.31.45
+[2021.07.07-18.31.45:535][645]LogWorld: Bringing up level for play took: 0.002101
+[2021.07.07-18.31.45:536][645]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.07.07-18.31.45:540][645]LogScript: Warning: Accessed None trying to read property Widget
+	BP_EnemyAI_C /Game/MyContent/Maps/UEDPIE_0_PrototypeMap.PrototypeMap:PersistentLevel.BP_EnemyAI_3
+	Function /Game/MyContent/EnemyAI/AI/BP_EnemyAI.BP_EnemyAI_C:ExecuteUbergraph_BP_EnemyAI:0020
+[2021.07.07-18.31.45:540][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  BP_EnemyAI Function:  Execute Ubergraph BP Enemy AI Graph:  EventGraph Node:  Cast To AIStats
+[2021.07.07-18.31.45:542][645]PIE: Server logged in
+[2021.07.07-18.31.45:542][645]PIE: Play in editor total start time 0,155 seconds.
+[2021.07.07-18.31.45:543][645]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:619][646]LogRenderer: Reallocating scene render targets to support 1636x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.07.07-18.31.45:621][646]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:644][647]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:657][648]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:700][649]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:748][650]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:799][651]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:807][652]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:816][653]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:825][654]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:834][655]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:842][656]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:852][657]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:860][658]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:868][659]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:877][660]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:886][661]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:894][662]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:902][663]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:910][664]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:919][665]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:928][666]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:937][667]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:945][668]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:954][669]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:964][670]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:973][671]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:982][672]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:990][673]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.45:998][674]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:007][675]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:015][676]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:023][677]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:032][678]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:040][679]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:048][680]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:057][681]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:065][682]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:073][683]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:082][684]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:090][685]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:099][686]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:110][687]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:117][688]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:125][689]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:134][690]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:142][691]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:153][692]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:162][693]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:171][694]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:181][695]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:190][696]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:200][697]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:211][698]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:224][699]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:233][700]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:241][701]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:250][702]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:258][703]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:267][704]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:275][705]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:284][706]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:293][707]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:302][708]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:310][709]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:319][710]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:328][711]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:336][712]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:344][713]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:353][714]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:362][715]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:371][716]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:380][717]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:388][718]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:397][719]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:405][720]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:414][721]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:423][722]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:433][723]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:441][724]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:450][725]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:459][726]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:468][727]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:476][728]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:484][729]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:492][730]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:500][731]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:508][732]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:517][733]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:526][734]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:535][735]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:543][736]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:551][737]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:560][738]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:568][739]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:577][740]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:585][741]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:593][742]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:601][743]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:609][744]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:618][745]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:626][746]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:635][747]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:643][748]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:653][749]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:661][750]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:669][751]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:677][752]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:686][753]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:695][754]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:703][755]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:712][756]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:720][757]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:728][758]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:737][759]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:745][760]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:754][761]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:762][762]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:771][763]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:780][764]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:788][765]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:797][766]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:805][767]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:813][768]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:822][769]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:831][770]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:839][771]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:848][772]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:855][773]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:864][774]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:872][775]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:881][776]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:889][777]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:898][778]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:906][779]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:914][780]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:923][781]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:934][782]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:943][783]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:951][784]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:960][785]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:968][786]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:977][787]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:985][788]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.46:993][789]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:003][790]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:012][791]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:021][792]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:029][793]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:038][794]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:047][795]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:055][796]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:063][797]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:071][798]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:080][799]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:089][800]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:097][801]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:105][802]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:114][803]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:122][804]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:130][805]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:138][806]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:147][807]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:155][808]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:164][809]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:171][810]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:180][811]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:188][812]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:198][813]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:205][814]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:213][815]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:222][816]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:232][817]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:239][818]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:248][819]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:256][820]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:264][821]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:272][822]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:281][823]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:289][824]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:298][825]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:306][826]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:314][827]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:323][828]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:331][829]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:339][830]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:348][831]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:357][832]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:365][833]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:373][834]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:382][835]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:390][836]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:398][837]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:406][838]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:415][839]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:424][840]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:432][841]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:441][842]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:449][843]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:458][844]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:466][845]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:474][846]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:483][847]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:491][848]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:499][849]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:508][850]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:516][851]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:525][852]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:533][853]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:541][854]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:550][855]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:558][856]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:566][857]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:575][858]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:583][859]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:591][860]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:600][861]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:608][862]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:616][863]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:624][864]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:633][865]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:641][866]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:649][867]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:660][868]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:671][869]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:679][870]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:688][871]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:696][872]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:704][873]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:712][874]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:721][875]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:729][876]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:737][877]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:746][878]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:754][879]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:762][880]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:771][881]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:780][882]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:788][883]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:796][884]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:805][885]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:813][886]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:822][887]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:830][888]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:839][889]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:848][890]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:856][891]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:867][892]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:874][893]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:883][894]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:892][895]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:900][896]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:909][897]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:918][898]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:926][899]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:934][900]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:943][901]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:951][902]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:960][903]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:968][904]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:976][905]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:985][906]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:993][907]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.47:993][907]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.47:993][907]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.47:993][907]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.47:993][907]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.47:994][907]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.47:994][907]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:002][908]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:010][909]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:019][910]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:027][911]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:035][912]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:043][913]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:054][914]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:061][915]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:069][916]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:077][917]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:086][918]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:094][919]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:104][920]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:112][921]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:120][922]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:129][923]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:137][924]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:145][925]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:154][926]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:162][927]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:171][928]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:179][929]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:189][930]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:199][931]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:207][932]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:216][933]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:224][934]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:232][935]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:241][936]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:249][937]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:258][938]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:266][939]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:275][940]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:283][941]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:291][942]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:300][943]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:309][944]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:317][945]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:326][946]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:334][947]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:342][948]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:352][949]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:360][950]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:368][951]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:377][952]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:385][953]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:393][954]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:402][955]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:410][956]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:419][957]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:427][958]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:436][959]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:444][960]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:453][961]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:461][962]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:469][963]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:478][964]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:487][965]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:497][966]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:519][967]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:528][968]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:536][969]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:545][970]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:545][970]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:545][970]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:546][970]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:546][970]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:546][970]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:546][970]LogBlueprintUserMessages: [BTT_Attack_C_4] 
+[2021.07.07-18.31.48:554][971]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:562][972]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:570][973]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:579][974]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:587][975]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:595][976]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:604][977]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:612][978]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:621][979]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:630][980]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:640][981]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0
+[2021.07.07-18.31.48:650][982]LogBlueprintUserMessages: [ABP_EnemyAI_C_0] 0.0

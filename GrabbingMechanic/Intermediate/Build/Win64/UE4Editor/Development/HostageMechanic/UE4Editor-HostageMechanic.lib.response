@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HostageMechanic.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\HostageMechanicEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\CameraShakeGrabbed.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\EnemyCharacter.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanic.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicCharacter.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicGameMode.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicHUD.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicProjectile.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostagePawn.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\CameraShakeGrabbed.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\EnemyCharacter.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanic.init.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicCharacter.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicGameMode.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicHUD.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostageMechanicProjectile.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\HostagePawn.gen.cpp.obj"
+"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\Default.rc2.res"
+/OUT:"C:\Dokumente\Unreal Projects\HostageMechanic\Intermediate\Build\Win64\UE4Editor\Development\HostageMechanic\UE4Editor-HostageMechanic.lib"
+/INCLUDE:IMPLEMENT_MODULE_HostageMechanic
