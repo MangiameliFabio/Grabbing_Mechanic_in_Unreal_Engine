@@ -57,9 +57,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "49357AB114C7F8ED0087A172627DCFB473DB2BFB",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B367FBA4EDC399866EDEE35866E90F931F6E91A9",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3D1E859F9A343CD34150082C082E6BF534A8F6AE",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
 			]
 		},
 		{
@@ -100,9 +130,23 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"ShaderMapHash": "19350454790CBA93AC4E7081EFB63DB8406B3857",
 			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
+				"/Game/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01",
+				"/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4DB7703DDCA04FC828DC79314CB9A43DD77901A0",
+			"Assets": [
+				"/Game/PrototypeWeap/FX/Materials/M_Spark_01",
+				"/Game/PrototypeWeap/FX/Materials/M_Ember_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C7EB7E89E672C4F8A2ACCD2816497D4D531C33B2",
+			"Assets": [
+				"/Game/PrototypeWeap/FX/Materials/M_Pop_01"
 			]
 		},
 		{
@@ -115,6 +159,18 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E0491E46C5CC52F21BB439BBF81464E303D714",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
 		},
 		{
@@ -148,6 +204,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "50CA771042413C6E441526BC4F0E22839C086AA8",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -173,6 +235,26 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9ABA8DF81A88A2B6A74A74521505C963E9E03254",
+			"Assets": [
+				"/Game/PrototypeWeap/Materials/M_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5E51E107FE98150FB9972E03ED2AACFBC14B3159",
+			"Assets": [
+				"/Game/PrototypeWeap/FX/Materials/M_LightStreak_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
+			"Assets": [
+				"/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body2",
+				"/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body1",
+				"/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body"
+			]
+		},
+		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -188,6 +270,12 @@
 			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B9AD60DF853B26394425B71BFC71BB9BF86DD85E",
+			"Assets": [
+				"/Game/FirstPerson/FPWeapon/Materials/M_FPGun"
 			]
 		},
 		{
@@ -233,6 +321,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "473153783064D4AA54DBC5FBC07A2371B01613D0",
+			"Assets": [
+				"/Game/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst"
+			]
+		},
+		{
 			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
@@ -242,100 +336,6 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "49357AB114C7F8ED0087A172627DCFB473DB2BFB",
-			"Assets": [
-				"/Engine/EditorMaterials/Camera/CineMat"
-			]
-		},
-		{
-			"ShaderMapHash": "473153783064D4AA54DBC5FBC07A2371B01613D0",
-			"Assets": [
-				"/Game/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "B9AD60DF853B26394425B71BFC71BB9BF86DD85E",
-			"Assets": [
-				"/Game/FirstPerson/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "B367FBA4EDC399866EDEE35866E90F931F6E91A9",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
-			]
-		},
-		{
-			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
-			"Assets": [
-				"/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body1",
-				"/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body",
-				"/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body2"
-			]
-		},
-		{
-			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5E51E107FE98150FB9972E03ED2AACFBC14B3159",
-			"Assets": [
-				"/Game/PrototypeWeap/FX/Materials/M_LightStreak_01"
-			]
-		},
-		{
-			"ShaderMapHash": "9ABA8DF81A88A2B6A74A74521505C963E9E03254",
-			"Assets": [
-				"/Game/PrototypeWeap/Materials/M_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "4DB7703DDCA04FC828DC79314CB9A43DD77901A0",
-			"Assets": [
-				"/Game/PrototypeWeap/FX/Materials/M_Ember_01",
-				"/Game/PrototypeWeap/FX/Materials/M_Spark_01"
-			]
-		},
-		{
-			"ShaderMapHash": "3D1E859F9A343CD34150082C082E6BF534A8F6AE",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "19350454790CBA93AC4E7081EFB63DB8406B3857",
-			"Assets": [
-				"/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01",
-				"/Game/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01"
-			]
-		},
-		{
-			"ShaderMapHash": "C7EB7E89E672C4F8A2ACCD2816497D4D531C33B2",
-			"Assets": [
-				"/Game/PrototypeWeap/FX/Materials/M_Pop_01"
-			]
-		},
-		{
-			"ShaderMapHash": "A8E0491E46C5CC52F21BB439BBF81464E303D714",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "50CA771042413C6E441526BC4F0E22839C086AA8",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		}
 	]

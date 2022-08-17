@@ -1,4 +1,4 @@
-C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Source\HostageMechanic\HostageMechanic.cpp
+C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Source\HostageMechanic\HostageMechanic.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\Engine
 /I Runtime
@@ -125,8 +125,8 @@ C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Source\Hostage
 /I Runtime\Online\HTTP\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
-/I C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Inc\HostageMechanic
-/I C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Source
+/I C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Inc\HostageMechanic
+/I C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -136,12 +136,12 @@ C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Source\Hostage
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\HostageMechanic\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Shipping\HostageMechanic\Definitions.HostageMechanic.h"
-/Yu"C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\HostageMechanic\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\HostageMechanic\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Shipping\HostageMechanic\HostageMechanic.cpp.obj"
-/sourceDependencies C:\Users\fabio\Documents\GitHub\GrabbingMechanic\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Shipping\HostageMechanic\HostageMechanic.cpp.json
+/FI"C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\HostageMechanic\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Shipping\HostageMechanic\Definitions.HostageMechanic.h"
+/Yu"C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\HostageMechanic\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\HostageMechanic\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Shipping\HostageMechanic\HostageMechanic.cpp.obj"
+/sourceDependencies C:\Users\fabio\Documents\GitHub\GrabbingMechanic_in_Unreal_Engine\GrabbingMechanic\Intermediate\Build\Win64\UnrealGame\Shipping\HostageMechanic\HostageMechanic.cpp.json
 /Zc:inline
 /nologo
 /Oi

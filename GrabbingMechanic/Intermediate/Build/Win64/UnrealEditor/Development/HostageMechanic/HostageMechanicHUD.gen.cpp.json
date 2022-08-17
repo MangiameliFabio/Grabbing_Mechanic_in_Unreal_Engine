@@ -1,18 +1,18 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\inc\\hostagemechanic\\hostagemechanichud.gen.cpp",
+        "Source": "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\inc\\hostagemechanic\\hostagemechanichud.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\hostagemechaniceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\hostagemechaniceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\development\\hostagemechanic\\definitions.hostagemechanic.h",
-            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\source\\hostagemechanic\\hostagemechanichud.h",
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\development\\hostagemechanic\\definitions.hostagemechanic.h",
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\source\\hostagemechanic\\hostagemechanichud.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\debugtextinfo.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\hud.generated.h",
-            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\inc\\hostagemechanic\\hostagemechanichud.generated.h"
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\unrealeditor\\inc\\hostagemechanic\\hostagemechanichud.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

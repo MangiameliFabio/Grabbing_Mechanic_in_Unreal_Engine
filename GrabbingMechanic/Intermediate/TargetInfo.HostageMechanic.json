@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "HostageMechanic",
-			"Path": "C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanic.Target.cs",
+			"Path": "C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Source\\HostageMechanic.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "HostageMechanicEditor",
-			"Path": "C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanicEditor.Target.cs",
+			"Path": "C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Source\\HostageMechanicEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

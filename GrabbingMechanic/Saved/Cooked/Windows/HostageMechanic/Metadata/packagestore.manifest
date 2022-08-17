@@ -153,6 +153,14 @@
 			"ChunkId": "a257a4a1759b7c6d00000001"
 		},
 		{
+			"Path": "HostageMechanic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+			"ChunkId": "c03bbfce5c00d2f200000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk",
+			"ChunkId": "c03bbfce5c00d2f200000002"
+		},
+		{
 			"Path": "HostageMechanic/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset",
 			"ChunkId": "a1f5a829fb71522b00000001"
 		},
@@ -449,22 +457,6 @@
 			"ChunkId": "2cc5808063f890db00000002"
 		},
 		{
-			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
-			"ChunkId": "5c918efb403d4bb200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
-			"ChunkId": "5c918efb403d4bb200000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
-			"ChunkId": "c03bbfce5c00d2f200000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk",
-			"ChunkId": "c03bbfce5c00d2f200000002"
-		},
-		{
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset",
 			"ChunkId": "7bae9d93c88ae44900000001"
 		},
@@ -501,6 +493,22 @@
 			"ChunkId": "a06a91154845992200000001"
 		},
 		{
+			"Path": "Engine/Content/EditorMaterials/Camera/CineMat.uasset",
+			"ChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+			"ChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
+		},
+		{
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset",
 			"ChunkId": "55c5d73fec0135d200000001"
 		},
@@ -527,6 +535,14 @@
 		{
 			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
 			"ChunkId": "ba6543c81e92e56d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
+			"ChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
+			"ChunkId": "f267c7830989284200000001"
 		},
 		{
 			"Path": "Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
@@ -567,6 +583,50 @@
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
 			"ChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
+			"ChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/Prototype_AssaultRifle_Skeleton.uasset",
+			"ChunkId": "d8c69ca2b181e5e700000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/Prototype_AssaultRifle_PhysicsAsset.uasset",
+			"ChunkId": "1ace08d847ec2a4900000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/Hostage/Hostage_Skeleton.uasset",
+			"ChunkId": "ad83c1f950835c8200000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/Maps/PrototypeMap_BuiltData.uasset",
+			"ChunkId": "69fa9280efb01a4600000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/Maps/PrototypeMap_BuiltData.ubulk",
+			"ChunkId": "69fa9280efb01a4600000002"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
+			"ChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
+			"ChunkId": "6baf53cf79c0948b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
+			"ChunkId": "6baf53cf79c0948b00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
+			"ChunkId": "2127f99d332bc85400000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
@@ -629,98 +689,6 @@
 			"ChunkId": "9acae5549f0219b000000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
-			"ChunkId": "f421d8f857b9ed0300000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/Prototype_AssaultRifle_Skeleton.uasset",
-			"ChunkId": "d8c69ca2b181e5e700000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/Prototype_AssaultRifle_PhysicsAsset.uasset",
-			"ChunkId": "1ace08d847ec2a4900000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/Hostage/Hostage_Skeleton.uasset",
-			"ChunkId": "ad83c1f950835c8200000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/Hostage/Hostage_PhysicsAsset.uasset",
-			"ChunkId": "843396282bf0247f00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/EnemyAI_Skeleton.uasset",
-			"ChunkId": "453b66d40ab6ae9000000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/EnemyAI_PhysicsAsset.uasset",
-			"ChunkId": "6d77f2c9c7c9992300000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_Reset_Attack_Status.uasset",
-			"ChunkId": "75479940b530a21100000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_ChangeSurrender.uasset",
-			"ChunkId": "935b2ff02dcf251f00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/BehaviorTree/BB_Enemy.uasset",
-			"ChunkId": "b75273cc2a03d22400000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
-			"ChunkId": "e19fd1364d96470b00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-			"ChunkId": "5516ce2c36f3d9ae00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/Maps/PrototypeMap_BuiltData.uasset",
-			"ChunkId": "69fa9280efb01a4600000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/Maps/PrototypeMap_BuiltData.ubulk",
-			"ChunkId": "69fa9280efb01a4600000002"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
-			"ChunkId": "f87a01e7b138538a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
-			"ChunkId": "b85ee5fd59f4dd2000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
-			"ChunkId": "3e6f2bc6739d380300000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
-			"ChunkId": "6baf53cf79c0948b00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
-			"ChunkId": "6baf53cf79c0948b00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
-			"ChunkId": "2127f99d332bc85400000001"
-		},
-		{
 			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
 			"ChunkId": "7539f12095a3f0d100000001"
 		},
@@ -755,6 +723,10 @@
 		{
 			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
 			"ChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"ChunkId": "3e6f2bc6739d380300000001"
 		},
 		{
 			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
@@ -821,6 +793,14 @@
 			"ChunkId": "bd472f8cbf5f723d00000002"
 		},
 		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.uasset",
+			"ChunkId": "b1955adfadac4b2700000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.ubulk",
+			"ChunkId": "b1955adfadac4b2700000002"
+		},
+		{
 			"Path": "HostageMechanic/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M.uasset",
 			"ChunkId": "8cf490a658b7518c00000001"
 		},
@@ -885,6 +865,54 @@
 			"ChunkId": "50b1b4095f9dd84700000002"
 		},
 		{
+			"Path": "HostageMechanic/Content/MyContent/Hostage/Hostage_PhysicsAsset.uasset",
+			"ChunkId": "843396282bf0247f00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/EnemyAI_Skeleton.uasset",
+			"ChunkId": "453b66d40ab6ae9000000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/EnemyAI_PhysicsAsset.uasset",
+			"ChunkId": "6d77f2c9c7c9992300000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_Reset_Attack_Status.uasset",
+			"ChunkId": "75479940b530a21100000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_ChangeSurrender.uasset",
+			"ChunkId": "935b2ff02dcf251f00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/BehaviorTree/BB_Enemy.uasset",
+			"ChunkId": "b75273cc2a03d22400000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/Geometry/Meshes/CubeMaterial.uasset",
+			"ChunkId": "7383fad0b04d788c00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+			"ChunkId": "e19fd1364d96470b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+			"ChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
 			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Textures/T_Knife_RibbonGradient_01.uasset",
 			"ChunkId": "e86ca6125bea94e400000001"
 		},
@@ -893,132 +921,12 @@
 			"ChunkId": "e86ca6125bea94e400000002"
 		},
 		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Specular.uasset",
-			"ChunkId": "9568ce4d29ccfb7b00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Specular.ubulk",
-			"ChunkId": "9568ce4d29ccfb7b00000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Normal.uasset",
-			"ChunkId": "fcbc9ccdfc28c2ec00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Normal.ubulk",
-			"ChunkId": "fcbc9ccdfc28c2ec00000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Glossiness.uasset",
-			"ChunkId": "5e64e7c5c1701b9600000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Glossiness.ubulk",
-			"ChunkId": "5e64e7c5c1701b9600000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Diffuse.uasset",
-			"ChunkId": "51afd8fa01e0190100000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Diffuse.ubulk",
-			"ChunkId": "51afd8fa01e0190100000002"
-		},
-		{
 			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Specular.uasset",
 			"ChunkId": "10bbe668a93e86f200000001"
 		},
 		{
 			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Specular.ubulk",
 			"ChunkId": "10bbe668a93e86f200000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Normal.uasset",
-			"ChunkId": "0d5d2c81be7a2aa200000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Normal.ubulk",
-			"ChunkId": "0d5d2c81be7a2aa200000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Glossiness.uasset",
-			"ChunkId": "bbefe6f6e773b64400000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Glossiness.ubulk",
-			"ChunkId": "bbefe6f6e773b64400000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Diffuse.uasset",
-			"ChunkId": "8fcb88cfee9176f500000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Diffuse.ubulk",
-			"ChunkId": "8fcb88cfee9176f500000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Glossiness.uasset",
-			"ChunkId": "e679c776a4f78c4a00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Glossiness.ubulk",
-			"ChunkId": "e679c776a4f78c4a00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Diffuse.uasset",
-			"ChunkId": "032212f7faf1b16100000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Diffuse.ubulk",
-			"ChunkId": "032212f7faf1b16100000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.uasset",
-			"ChunkId": "b1955adfadac4b2700000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.ubulk",
-			"ChunkId": "b1955adfadac4b2700000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Specular.uasset",
-			"ChunkId": "a6a1636371a690dd00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Specular.ubulk",
-			"ChunkId": "a6a1636371a690dd00000002"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Normal.uasset",
-			"ChunkId": "d4f78b8d1110bc5800000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Normal.ubulk",
-			"ChunkId": "d4f78b8d1110bc5800000002"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
@@ -1077,6 +985,146 @@
 			"ChunkId": "b5db971094e28fc500000001"
 		},
 		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01.uasset",
+			"ChunkId": "7b3e4fdf0925b34700000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_Spark_01.uasset",
+			"ChunkId": "2fb5cea7a0b7d20300000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Diffuse.uasset",
+			"ChunkId": "032212f7faf1b16100000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Diffuse.ubulk",
+			"ChunkId": "032212f7faf1b16100000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Specular.uasset",
+			"ChunkId": "9568ce4d29ccfb7b00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Specular.ubulk",
+			"ChunkId": "9568ce4d29ccfb7b00000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Normal.uasset",
+			"ChunkId": "fcbc9ccdfc28c2ec00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Normal.ubulk",
+			"ChunkId": "fcbc9ccdfc28c2ec00000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Glossiness.uasset",
+			"ChunkId": "5e64e7c5c1701b9600000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Glossiness.ubulk",
+			"ChunkId": "5e64e7c5c1701b9600000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Diffuse.uasset",
+			"ChunkId": "51afd8fa01e0190100000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Diffuse.ubulk",
+			"ChunkId": "51afd8fa01e0190100000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Normal.uasset",
+			"ChunkId": "0d5d2c81be7a2aa200000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Normal.ubulk",
+			"ChunkId": "0d5d2c81be7a2aa200000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Glossiness.uasset",
+			"ChunkId": "bbefe6f6e773b64400000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Glossiness.ubulk",
+			"ChunkId": "bbefe6f6e773b64400000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Diffuse.uasset",
+			"ChunkId": "8fcb88cfee9176f500000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Diffuse.ubulk",
+			"ChunkId": "8fcb88cfee9176f500000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Specular.uasset",
+			"ChunkId": "a6a1636371a690dd00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Specular.ubulk",
+			"ChunkId": "a6a1636371a690dd00000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Normal.uasset",
+			"ChunkId": "d4f78b8d1110bc5800000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Normal.ubulk",
+			"ChunkId": "d4f78b8d1110bc5800000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Glossiness.uasset",
+			"ChunkId": "e679c776a4f78c4a00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Glossiness.ubulk",
+			"ChunkId": "e679c776a4f78c4a00000002"
+		},
+		{
+			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset",
+			"ChunkId": "6d85ce4e9061538c00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.ubulk",
+			"ChunkId": "6d85ce4e9061538c00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_SmokeSimple_01.uasset",
+			"ChunkId": "e2dc80b650a173c500000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_Pop_01.uasset",
+			"ChunkId": "39632042a9254f3500000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_Ember_01.uasset",
+			"ChunkId": "af38f150c1c999b800000001"
+		},
+		{
 			"Path": "HostageMechanic/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset",
 			"ChunkId": "139caf855a1cf34300000001"
 		},
@@ -1109,20 +1157,20 @@
 			"ChunkId": "26ee646584eded3100000001"
 		},
 		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
-			"ChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
 			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
 			"ChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
 			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
 		},
 		{
 			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
@@ -1135,6 +1183,10 @@
 		{
 			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
 			"ChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
@@ -1161,6 +1213,10 @@
 			"ChunkId": "ef400c1f3fd91f2a00000001"
 		},
 		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
 			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
 			"ChunkId": "eeb296b2a739309500000001"
 		},
@@ -1177,12 +1233,12 @@
 			"ChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
-			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset",
-			"ChunkId": "6d85ce4e9061538c00000001"
+			"Path": "HostageMechanic/Content/PrototypeWeap/Materials/M_Master.uasset",
+			"ChunkId": "e5a9ea448d10800a00000001"
 		},
 		{
-			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.ubulk",
-			"ChunkId": "6d85ce4e9061538c00000002"
+			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_LightStreak_01.uasset",
+			"ChunkId": "0e91adc0db18abee00000001"
 		},
 		{
 			"Path": "HostageMechanic/Content/MyContent/Hostage/Idle_Rifle_Hip.uasset",
@@ -1191,6 +1247,18 @@
 		{
 			"Path": "HostageMechanic/Content/MyContent/Hostage/Hostage_Mannequin.uasset",
 			"ChunkId": "5ed087cfd035b25f00000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_body2.uasset",
+			"ChunkId": "5133391f8d2c7e9000000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_body1.uasset",
+			"ChunkId": "7da32c153eef999300000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_body.uasset",
+			"ChunkId": "bee4baf4785e50af00000001"
 		},
 		{
 			"Path": "HostageMechanic/Content/MyContent/Animation/Surrender.uasset",
@@ -1257,6 +1325,10 @@
 			"ChunkId": "fabb39727be145c100000001"
 		},
 		{
+			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset",
+			"ChunkId": "378309719f21509300000001"
+		},
+		{
 			"Path": "HostageMechanic/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset",
 			"ChunkId": "14bd925a895b7a8000000001"
 		},
@@ -1291,10 +1363,6 @@
 		{
 			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset",
 			"ChunkId": "d4904df7434a1c3e00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/P_Impact_01.uasset",
-			"ChunkId": "42397b1a2c421c4100000001"
 		},
 		{
 			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset",
@@ -1423,6 +1491,10 @@
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset",
 			"ChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/P_Impact_01.uasset",
+			"ChunkId": "42397b1a2c421c4100000001"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset",
@@ -1593,6 +1665,10 @@
 			"ChunkId": "34868b7f9c10838900000001"
 		},
 		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst.uasset",
+			"ChunkId": "3efc6efe87c10e4a00000001"
+		},
+		{
 			"Path": "HostageMechanic/Content/MyContent/Hostage/ABP_Hostage.uasset",
 			"ChunkId": "0166c6f8ee59ff6400000001"
 		},
@@ -1665,10 +1741,6 @@
 			"ChunkId": "b059d54260cfd24100000001"
 		},
 		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/P_AssaultRifle_MuzzleFlash.uasset",
-			"ChunkId": "8f7b3ea4d35ebed300000001"
-		},
-		{
 			"Path": "HostageMechanic/Content/MyContent/EnemyAI/AI/AIC_Enemy.uasset",
 			"ChunkId": "a477ddc52d35c23500000001"
 		},
@@ -1721,88 +1793,16 @@
 			"ChunkId": "2247eb393d1c3eff00000001"
 		},
 		{
+			"Path": "HostageMechanic/Content/PrototypeWeap/P_AssaultRifle_MuzzleFlash.uasset",
+			"ChunkId": "8f7b3ea4d35ebed300000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
 			"ChunkId": "6ed73496191bba2800000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
 			"ChunkId": "cb90c94586b3228900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/Camera/CineMat.uasset",
-			"ChunkId": "a60f7c53ca2e732e00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst.uasset",
-			"ChunkId": "3efc6efe87c10e4a00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset",
-			"ChunkId": "378309719f21509300000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/Xray.uasset",
-			"ChunkId": "b0afffa81f17b5cc00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_body1.uasset",
-			"ChunkId": "7da32c153eef999300000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_body.uasset",
-			"ChunkId": "bee4baf4785e50af00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
-			"ChunkId": "36f9c4a1a41147a000000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/MyContent/EnemyAI/Mesh/Textures/Ch35_body2.uasset",
-			"ChunkId": "5133391f8d2c7e9000000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
-			"ChunkId": "f267c7830989284200000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_LightStreak_01.uasset",
-			"ChunkId": "0e91adc0db18abee00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/Materials/M_Master.uasset",
-			"ChunkId": "e5a9ea448d10800a00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_Ember_01.uasset",
-			"ChunkId": "af38f150c1c999b800000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/Geometry/Meshes/CubeMaterial.uasset",
-			"ChunkId": "7383fad0b04d788c00000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_Spark_01.uasset",
-			"ChunkId": "2fb5cea7a0b7d20300000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_SmokeSimple_01.uasset",
-			"ChunkId": "e2dc80b650a173c500000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_Pop_01.uasset",
-			"ChunkId": "39632042a9254f3500000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
-			"ChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
-			"ChunkId": "b4d3126ba7954ec000000001"
-		},
-		{
-			"Path": "HostageMechanic/Content/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01.uasset",
-			"ChunkId": "7b3e4fdf0925b34700000001"
 		}
 	],
 	"Packages": [
@@ -1977,6 +1977,13 @@
 		{
 			"Name": "/HairStrands/Materials/HairCardsDefaultMaterial",
 			"PackageChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Name": "/Game/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D",
+			"PackageChunkId": "c03bbfce5c00d2f200000001",
+			"BulkDataChunkIds": [
+				"c03bbfce5c00d2f200000002"
+			]
 		},
 		{
 			"Name": "/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02",
@@ -2252,20 +2259,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EditorResources/S_Solver",
-			"PackageChunkId": "5c918efb403d4bb200000001",
-			"BulkDataChunkIds": [
-				"5c918efb403d4bb200000002"
-			]
-		},
-		{
-			"Name": "/Game/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D",
-			"PackageChunkId": "c03bbfce5c00d2f200000001",
-			"BulkDataChunkIds": [
-				"c03bbfce5c00d2f200000002"
-			]
-		},
-		{
 			"Name": "/HairStrands/Materials/HairDefaultMaterial",
 			"PackageChunkId": "7bae9d93c88ae44900000001"
 		},
@@ -2302,6 +2295,21 @@
 			"PackageChunkId": "a06a91154845992200000001"
 		},
 		{
+			"Name": "/Engine/EditorMaterials/Camera/CineMat",
+			"PackageChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Xray",
+			"PackageChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"PackageChunkId": "5c918efb403d4bb200000001",
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
+			]
+		},
+		{
 			"Name": "/HairStrands/Materials/HairGroupColors",
 			"PackageChunkId": "55c5d73fec0135d200000001"
 		},
@@ -2326,6 +2334,14 @@
 			"BulkDataChunkIds": [
 				"ba6543c81e92e56d00000002"
 			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Main",
+			"PackageChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
+			"PackageChunkId": "f267c7830989284200000001"
 		},
 		{
 			"Name": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
@@ -2366,6 +2382,48 @@
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
 			"PackageChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Name": "/Engine/EngineMeshes/Sphere",
+			"PackageChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/Prototype_AssaultRifle_Skeleton",
+			"PackageChunkId": "d8c69ca2b181e5e700000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/Prototype_AssaultRifle_PhysicsAsset",
+			"PackageChunkId": "1ace08d847ec2a4900000001"
+		},
+		{
+			"Name": "/Game/MyContent/Hostage/Hostage_Skeleton",
+			"PackageChunkId": "ad83c1f950835c8200000001"
+		},
+		{
+			"Name": "/Game/MyContent/Maps/PrototypeMap_BuiltData",
+			"PackageChunkId": "69fa9280efb01a4600000001",
+			"BulkDataChunkIds": [
+				"69fa9280efb01a4600000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/GradientTexture0",
+			"PackageChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTexture",
+			"PackageChunkId": "6baf53cf79c0948b00000001",
+			"BulkDataChunkIds": [
+				"6baf53cf79c0948b00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MAT_Groups_Visibility",
+			"PackageChunkId": "2127f99d332bc85400000001"
 		},
 		{
 			"Name": "/Engine/EditorResources/S_TriggerSphere",
@@ -2424,104 +2482,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMeshes/Sphere",
-			"PackageChunkId": "f421d8f857b9ed0300000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/Prototype_AssaultRifle_Skeleton",
-			"PackageChunkId": "d8c69ca2b181e5e700000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/Prototype_AssaultRifle_PhysicsAsset",
-			"PackageChunkId": "1ace08d847ec2a4900000001"
-		},
-		{
-			"Name": "/Game/MyContent/Hostage/Hostage_Skeleton",
-			"PackageChunkId": "ad83c1f950835c8200000001"
-		},
-		{
-			"Name": "/Game/MyContent/Hostage/Hostage_PhysicsAsset",
-			"PackageChunkId": "843396282bf0247f00000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/EnemyAI_Skeleton",
-			"PackageChunkId": "453b66d40ab6ae9000000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/EnemyAI_PhysicsAsset",
-			"PackageChunkId": "6d77f2c9c7c9992300000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_Reset_Attack_Status",
-			"PackageChunkId": "75479940b530a21100000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_ChangeSurrender",
-			"PackageChunkId": "935b2ff02dcf251f00000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/AI/BehaviorTree/BB_Enemy",
-			"PackageChunkId": "b75273cc2a03d22400000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/BP_EnemyAI",
-			"PackageChunkId": "000000000000000000000000"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/BP_Enemy",
-			"PackageChunkId": "000000000000000000000000"
-		},
-		{
-			"Name": "/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset",
-			"PackageChunkId": "e19fd1364d96470b00000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
-			"PackageChunkId": "5516ce2c36f3d9ae00000001"
-		},
-		{
-			"Name": "/Game/MyContent/Maps/PrototypeMap_BuiltData",
-			"PackageChunkId": "69fa9280efb01a4600000001",
-			"BulkDataChunkIds": [
-				"69fa9280efb01a4600000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/GradientTexture0",
-			"PackageChunkId": "f87a01e7b138538a00000001"
-		},
-		{
-			"Name": "/Engine/EngineResources/WhiteSquareTexture",
-			"PackageChunkId": "b85ee5fd59f4dd2000000001"
-		},
-		{
-			"Name": "/Engine/EngineResources/DefaultTextureCube",
-			"PackageChunkId": "3e6f2bc6739d380300000001"
-		},
-		{
-			"Name": "/Engine/EngineResources/DefaultTexture",
-			"PackageChunkId": "6baf53cf79c0948b00000001",
-			"BulkDataChunkIds": [
-				"6baf53cf79c0948b00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/MAT_Groups_Visibility",
-			"PackageChunkId": "2127f99d332bc85400000001"
-		},
-		{
 			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
 			"PackageChunkId": "7539f12095a3f0d100000001",
 			"BulkDataChunkIds": [
@@ -2553,6 +2513,10 @@
 		{
 			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
 			"PackageChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"PackageChunkId": "3e6f2bc6739d380300000001"
 		},
 		{
 			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
@@ -2618,6 +2582,13 @@
 			]
 		},
 		{
+			"Name": "/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N",
+			"PackageChunkId": "b1955adfadac4b2700000001",
+			"BulkDataChunkIds": [
+				"b1955adfadac4b2700000002"
+			]
+		},
+		{
 			"Name": "/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M",
 			"PackageChunkId": "8cf490a658b7518c00000001",
 			"BulkDataChunkIds": [
@@ -2674,6 +2645,62 @@
 			]
 		},
 		{
+			"Name": "/Game/MyContent/Hostage/Hostage_PhysicsAsset",
+			"PackageChunkId": "843396282bf0247f00000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/EnemyAI_Skeleton",
+			"PackageChunkId": "453b66d40ab6ae9000000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/EnemyAI_PhysicsAsset",
+			"PackageChunkId": "6d77f2c9c7c9992300000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_Reset_Attack_Status",
+			"PackageChunkId": "75479940b530a21100000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/AI/BehaviorTree/BTT/BTT_ChangeSurrender",
+			"PackageChunkId": "935b2ff02dcf251f00000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/AI/BehaviorTree/BB_Enemy",
+			"PackageChunkId": "b75273cc2a03d22400000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/BP_EnemyAI",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/BP_Enemy",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Geometry/Meshes/CubeMaterial",
+			"PackageChunkId": "7383fad0b04d788c00000001"
+		},
+		{
+			"Name": "/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset",
+			"PackageChunkId": "e19fd1364d96470b00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
+			"PackageChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
 			"Name": "/Game/PrototypeWeap/FX/Textures/T_Knife_RibbonGradient_01",
 			"PackageChunkId": "e86ca6125bea94e400000001",
 			"BulkDataChunkIds": [
@@ -2681,117 +2708,10 @@
 			]
 		},
 		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Specular",
-			"PackageChunkId": "9568ce4d29ccfb7b00000001",
-			"BulkDataChunkIds": [
-				"9568ce4d29ccfb7b00000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Normal",
-			"PackageChunkId": "fcbc9ccdfc28c2ec00000001",
-			"BulkDataChunkIds": [
-				"fcbc9ccdfc28c2ec00000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Glossiness",
-			"PackageChunkId": "5e64e7c5c1701b9600000001",
-			"BulkDataChunkIds": [
-				"5e64e7c5c1701b9600000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Diffuse",
-			"PackageChunkId": "51afd8fa01e0190100000001",
-			"BulkDataChunkIds": [
-				"51afd8fa01e0190100000002"
-			]
-		},
-		{
 			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Specular",
 			"PackageChunkId": "10bbe668a93e86f200000001",
 			"BulkDataChunkIds": [
 				"10bbe668a93e86f200000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Normal",
-			"PackageChunkId": "0d5d2c81be7a2aa200000001",
-			"BulkDataChunkIds": [
-				"0d5d2c81be7a2aa200000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Glossiness",
-			"PackageChunkId": "bbefe6f6e773b64400000001",
-			"BulkDataChunkIds": [
-				"bbefe6f6e773b64400000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Diffuse",
-			"PackageChunkId": "8fcb88cfee9176f500000001",
-			"BulkDataChunkIds": [
-				"8fcb88cfee9176f500000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Glossiness",
-			"PackageChunkId": "e679c776a4f78c4a00000001",
-			"BulkDataChunkIds": [
-				"e679c776a4f78c4a00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"PackageChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"PackageChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Diffuse",
-			"PackageChunkId": "032212f7faf1b16100000001",
-			"BulkDataChunkIds": [
-				"032212f7faf1b16100000002"
-			]
-		},
-		{
-			"Name": "/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N",
-			"PackageChunkId": "b1955adfadac4b2700000001",
-			"BulkDataChunkIds": [
-				"b1955adfadac4b2700000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Specular",
-			"PackageChunkId": "a6a1636371a690dd00000001",
-			"BulkDataChunkIds": [
-				"a6a1636371a690dd00000002"
-			]
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Normal",
-			"PackageChunkId": "d4f78b8d1110bc5800000001",
-			"BulkDataChunkIds": [
-				"d4f78b8d1110bc5800000002"
 			]
 		},
 		{
@@ -2851,6 +2771,133 @@
 			"PackageChunkId": "b5db971094e28fc500000001"
 		},
 		{
+			"Name": "/Game/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01",
+			"PackageChunkId": "7b3e4fdf0925b34700000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/FX/Materials/M_Spark_01",
+			"PackageChunkId": "2fb5cea7a0b7d20300000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Diffuse",
+			"PackageChunkId": "032212f7faf1b16100000001",
+			"BulkDataChunkIds": [
+				"032212f7faf1b16100000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Specular",
+			"PackageChunkId": "9568ce4d29ccfb7b00000001",
+			"BulkDataChunkIds": [
+				"9568ce4d29ccfb7b00000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Normal",
+			"PackageChunkId": "fcbc9ccdfc28c2ec00000001",
+			"BulkDataChunkIds": [
+				"fcbc9ccdfc28c2ec00000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Glossiness",
+			"PackageChunkId": "5e64e7c5c1701b9600000001",
+			"BulkDataChunkIds": [
+				"5e64e7c5c1701b9600000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1003_Diffuse",
+			"PackageChunkId": "51afd8fa01e0190100000001",
+			"BulkDataChunkIds": [
+				"51afd8fa01e0190100000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Normal",
+			"PackageChunkId": "0d5d2c81be7a2aa200000001",
+			"BulkDataChunkIds": [
+				"0d5d2c81be7a2aa200000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Glossiness",
+			"PackageChunkId": "bbefe6f6e773b64400000001",
+			"BulkDataChunkIds": [
+				"bbefe6f6e773b64400000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1002_Diffuse",
+			"PackageChunkId": "8fcb88cfee9176f500000001",
+			"BulkDataChunkIds": [
+				"8fcb88cfee9176f500000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Specular",
+			"PackageChunkId": "a6a1636371a690dd00000001",
+			"BulkDataChunkIds": [
+				"a6a1636371a690dd00000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Normal",
+			"PackageChunkId": "d4f78b8d1110bc5800000001",
+			"BulkDataChunkIds": [
+				"d4f78b8d1110bc5800000002"
+			]
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_1001_Glossiness",
+			"PackageChunkId": "e679c776a4f78c4a00000001",
+			"BulkDataChunkIds": [
+				"e679c776a4f78c4a00000002"
+			]
+		},
+		{
+			"Name": "/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber",
+			"PackageChunkId": "6d85ce4e9061538c00000001",
+			"BulkDataChunkIds": [
+				"6d85ce4e9061538c00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01",
+			"PackageChunkId": "e2dc80b650a173c500000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/FX/Materials/M_Pop_01",
+			"PackageChunkId": "39632042a9254f3500000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/FX/Materials/M_Ember_01",
+			"PackageChunkId": "af38f150c1c999b800000001"
+		},
+		{
 			"Name": "/Game/FirstPerson/Meshes/FirstPersonProjectileMaterial",
 			"PackageChunkId": "139caf855a1cf34300000001"
 		},
@@ -2883,20 +2930,20 @@
 			"PackageChunkId": "26ee646584eded3100000001"
 		},
 		{
-			"Name": "/Paper2D/DummySprite",
-			"PackageChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Name": "/Paper2D/DefaultSpriteMaterial",
-			"PackageChunkId": "12c2c1346a8453a600000001"
-		},
-		{
 			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
 			"PackageChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
 			"Name": "/ControlRig/M_Manip",
 			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
 		},
 		{
 			"Name": "/Engine/EngineFonts/Roboto",
@@ -2909,6 +2956,10 @@
 		{
 			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
 			"PackageChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
+			"PackageChunkId": "51f4a9204ba994c500000001"
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
@@ -2935,6 +2986,10 @@
 			"PackageChunkId": "ef400c1f3fd91f2a00000001"
 		},
 		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"PackageChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
 			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
 			"PackageChunkId": "eeb296b2a739309500000001"
 		},
@@ -2951,11 +3006,12 @@
 			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
-			"Name": "/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber",
-			"PackageChunkId": "6d85ce4e9061538c00000001",
-			"BulkDataChunkIds": [
-				"6d85ce4e9061538c00000002"
-			]
+			"Name": "/Game/PrototypeWeap/Materials/M_Master",
+			"PackageChunkId": "e5a9ea448d10800a00000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/FX/Materials/M_LightStreak_01",
+			"PackageChunkId": "0e91adc0db18abee00000001"
 		},
 		{
 			"Name": "/Game/MyContent/Hostage/Idle_Rifle_Hip",
@@ -2964,6 +3020,18 @@
 		{
 			"Name": "/Game/MyContent/Hostage/Hostage_Mannequin",
 			"PackageChunkId": "5ed087cfd035b25f00000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body2",
+			"PackageChunkId": "5133391f8d2c7e9000000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body1",
+			"PackageChunkId": "7da32c153eef999300000001"
+		},
+		{
+			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body",
+			"PackageChunkId": "bee4baf4785e50af00000001"
 		},
 		{
 			"Name": "/Game/MyContent/Animation/Surrender",
@@ -3030,6 +3098,10 @@
 			"PackageChunkId": "fabb39727be145c100000001"
 		},
 		{
+			"Name": "/Game/FirstPerson/FPWeapon/Materials/M_FPGun",
+			"PackageChunkId": "378309719f21509300000001"
+		},
+		{
 			"Name": "/Game/FirstPerson/Character/Materials/M_UE4Man_Body",
 			"PackageChunkId": "14bd925a895b7a8000000001"
 		},
@@ -3064,10 +3136,6 @@
 		{
 			"Name": "/Engine/EditorMeshes/Camera/SM_RailRig_Track",
 			"PackageChunkId": "d4904df7434a1c3e00000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/P_Impact_01",
-			"PackageChunkId": "42397b1a2c421c4100000001"
 		},
 		{
 			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Body",
@@ -3196,6 +3264,10 @@
 		{
 			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_solid",
 			"PackageChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Name": "/Game/PrototypeWeap/P_Impact_01",
+			"PackageChunkId": "42397b1a2c421c4100000001"
 		},
 		{
 			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_3mm",
@@ -3366,6 +3438,10 @@
 			"PackageChunkId": "34868b7f9c10838900000001"
 		},
 		{
+			"Name": "/Game/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst",
+			"PackageChunkId": "3efc6efe87c10e4a00000001"
+		},
+		{
 			"Name": "/Game/MyContent/Hostage/ABP_Hostage",
 			"PackageChunkId": "0166c6f8ee59ff6400000001"
 		},
@@ -3442,10 +3518,6 @@
 			"PackageChunkId": "b059d54260cfd24100000001"
 		},
 		{
-			"Name": "/Game/PrototypeWeap/P_AssaultRifle_MuzzleFlash",
-			"PackageChunkId": "8f7b3ea4d35ebed300000001"
-		},
-		{
 			"Name": "/Game/MyContent/EnemyAI/AI/AIC_Enemy",
 			"PackageChunkId": "a477ddc52d35c23500000001"
 		},
@@ -3498,88 +3570,16 @@
 			"PackageChunkId": "2247eb393d1c3eff00000001"
 		},
 		{
+			"Name": "/Game/PrototypeWeap/P_AssaultRifle_MuzzleFlash",
+			"PackageChunkId": "8f7b3ea4d35ebed300000001"
+		},
+		{
 			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
 			"PackageChunkId": "6ed73496191bba2800000001"
 		},
 		{
 			"Name": "/Engine/EditorResources/EmptyActor",
 			"PackageChunkId": "cb90c94586b3228900000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/Camera/CineMat",
-			"PackageChunkId": "a60f7c53ca2e732e00000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst",
-			"PackageChunkId": "3efc6efe87c10e4a00000001"
-		},
-		{
-			"Name": "/Game/FirstPerson/FPWeapon/Materials/M_FPGun",
-			"PackageChunkId": "378309719f21509300000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/Xray",
-			"PackageChunkId": "b0afffa81f17b5cc00000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body1",
-			"PackageChunkId": "7da32c153eef999300000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body",
-			"PackageChunkId": "bee4baf4785e50af00000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/Main",
-			"PackageChunkId": "36f9c4a1a41147a000000001"
-		},
-		{
-			"Name": "/Game/MyContent/EnemyAI/Mesh/Textures/Ch35_body2",
-			"PackageChunkId": "5133391f8d2c7e9000000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
-			"PackageChunkId": "f267c7830989284200000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/FX/Materials/M_LightStreak_01",
-			"PackageChunkId": "0e91adc0db18abee00000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/Materials/M_Master",
-			"PackageChunkId": "e5a9ea448d10800a00000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/FX/Materials/M_Ember_01",
-			"PackageChunkId": "af38f150c1c999b800000001"
-		},
-		{
-			"Name": "/Game/Geometry/Meshes/CubeMaterial",
-			"PackageChunkId": "7383fad0b04d788c00000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/FX/Materials/M_Spark_01",
-			"PackageChunkId": "2fb5cea7a0b7d20300000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01",
-			"PackageChunkId": "e2dc80b650a173c500000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/FX/Materials/M_Pop_01",
-			"PackageChunkId": "39632042a9254f3500000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
-			"PackageChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultMaterial",
-			"PackageChunkId": "b4d3126ba7954ec000000001"
-		},
-		{
-			"Name": "/Game/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01",
-			"PackageChunkId": "7b3e4fdf0925b34700000001"
 		}
 	],
 	"OptionalPackages": []

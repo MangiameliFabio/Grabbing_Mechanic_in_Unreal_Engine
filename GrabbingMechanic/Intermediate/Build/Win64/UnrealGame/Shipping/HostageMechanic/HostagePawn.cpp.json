@@ -1,13 +1,13 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\source\\hostagemechanic\\hostagepawn.cpp",
+        "Source": "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\source\\hostagemechanic\\hostagepawn.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\hostagemechanic\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\hostagemechanic\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealgame\\shipping\\hostagemechanic\\definitions.hostagemechanic.h",
-            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\source\\hostagemechanic\\hostagepawn.h",
-            "c:\\users\\fabio\\documents\\github\\grabbingmechanic\\grabbingmechanic\\intermediate\\build\\win64\\unrealgame\\inc\\hostagemechanic\\hostagepawn.generated.h"
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\unrealgame\\shipping\\hostagemechanic\\definitions.hostagemechanic.h",
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\source\\hostagemechanic\\hostagepawn.h",
+            "c:\\users\\fabio\\documents\\github\\grabbingmechanic_in_unreal_engine\\grabbingmechanic\\intermediate\\build\\win64\\unrealgame\\inc\\hostagemechanic\\hostagepawn.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

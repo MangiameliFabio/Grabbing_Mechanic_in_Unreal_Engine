@@ -1,14 +1,14 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanic\\HostageMechanic.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanic.Target.cs",
-		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic\\GrabbingMechanic\\Source\\HostageMechanicEditor.Target.cs"
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Source\\HostageMechanic\\HostageMechanic.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Source\\HostageMechanic.Target.cs",
+		"C:\\Users\\fabio\\Documents\\GitHub\\GrabbingMechanic_in_Unreal_Engine\\GrabbingMechanic\\Source\\HostageMechanicEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.2"
 }
