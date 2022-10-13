@@ -1,7 +1,7 @@
 # GrabbingMechanic
 Latest Build was created in Unreal Engine 5.0.2
 
-This Project was created during my Gameplay Programming lecture at the University. It was my first try to create a prototype with C++. Its not perfect and kinda wanky but I like it anyways. 
+This Project was created during my Gameplay Programming lecture at the University. It was my first try to create a prototype in Unreal with C++. Its not perfect and kinda wanky but I like it anyways. 
 
 The purpose of the lecture was to show the students how a development loop works. To achieve this we created several documents and a prototype. 
 
